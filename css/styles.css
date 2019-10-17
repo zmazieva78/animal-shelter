@@ -1,0 +1,16 @@
+.column {
+    width: 20%;
+    float: left;
+    text-align: center;
+}
+img {
+  width: 190px;
+  height: auto;
+}
+li {
+  list-style-type: none;
+  text-align: center;
+}
+ul {
+  padding-inline-start: 0px;
+}
