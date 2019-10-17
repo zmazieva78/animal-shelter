@@ -14,3 +14,20 @@ li {
 ul {
   padding-inline-start: 0px;
 }
+body {
+  text-align: center;
+  background-image: url("../img/background.jpg");
+}
+.column a {
+  color: red;
+}
+.column h2 {
+  color: blue;
+}
+h1 {
+  font-family: fantasy;
+}
+.footer {
+  background-color: grey;
+  color: white;
+}
